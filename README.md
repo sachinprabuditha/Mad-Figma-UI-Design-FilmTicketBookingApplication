@@ -1,2 +1,2 @@
-# Mad-Figma-UI-Design-FilmTicketBookingApplication
+# Mad-Figma-UI-Design-FilmTicketBookingMobileApplication
 Sliit Y2 S2 Assignment 
